@@ -1,0 +1,35 @@
+
+hr {
+	border-color: transparent;
+}
+
+body, html {
+    background: url(back.jpg) no-repeat center center fixed;
+    font-family: 'Kanit', sans-serif;
+}
+
+.firsta {
+    color: #198754;
+}
+
+.seconda {
+    color: #198754;
+}
+
+/*.firsta: hover {
+    background-color: red;
+}*/
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+
+h1:hover {
+    color: navajowhite;
+}
+
+.btn {
+    border-radius: 15px;
+}
