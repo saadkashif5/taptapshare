@@ -6,6 +6,8 @@ hr {
 body, html {
     background: url(back8.png) no-repeat;
     font-family: 'Kanit', sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .buttonn {
