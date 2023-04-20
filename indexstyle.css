@@ -4,7 +4,7 @@ hr {
 }
 
 body, html {
-    background: url(back8.png) no-repeat center center fixed;
+    background: url(back8.png) no-repeat;
     font-family: 'Kanit', sans-serif;
 }
 
@@ -12,10 +12,13 @@ body, html {
     color: #212529;
 }
 
-.buttonn:hover {
+/*.buttonn:hover {
     color: #424649;
 }
 
+a:hover {
+     color: #424649;
+}*/
 
 h1 {
     color: white;
